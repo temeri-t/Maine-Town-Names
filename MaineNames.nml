@@ -1,5 +1,5 @@
 grf {
-	grfid: "RG\01\01";
+	grfid: "RG\99\01";
 	name: string(MAINE_TOWN_NAMES);
 	desc: string(MAINE_TOWN_NAMES_DESC);
 	version: 0;
